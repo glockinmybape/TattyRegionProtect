@@ -1,0 +1,7 @@
+name: TattyRGP
+version: '1.0-SNAPSHOT'
+main: org.glockinmybape.tattyrgp.TattyRGP
+authors: [ glockinmybape ]
+description: TattyRGP
+commands:
+  tblocker:

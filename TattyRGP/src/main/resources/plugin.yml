@@ -1,0 +1,7 @@
+name: TattyRGP
+version: '${project.version}'
+main: org.glockinmybape.tattyrgp.TattyRGP
+authors: [ glockinmybape ]
+description: TattyRGP
+commands:
+  tblocker:

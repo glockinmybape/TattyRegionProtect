@@ -1,0 +1,5 @@
+message: 'Регион %rg% защищен'
+
+fregions:
+  - spawn
+  - spawn1
